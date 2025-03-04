@@ -1,4 +1,4 @@
-<h2 align="center">Heya👋! I'm Daniel, an aspiring backend & mobile developer learning Node.js, Flutter (Dart), Next.js, Nest.js, and more.</h2>
+<h2 align="center">Heya 👋! I'm Daniel, an aspiring backend & mobile developer learning Node.js, Flutter (Dart), Next.js, Nest.js, and more.</h2>
 
 ###
 
