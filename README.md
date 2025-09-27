@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Daniel, backend & mobile developer</h2>
+<h2 align="center">Hi, I'm Daniel, junior+ backend developer</h2>
 
 ###
 
