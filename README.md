@@ -1,10 +1,10 @@
-<h2 align="center">Hi, I'm Daniel, junior+ backend developer</h2>
+<h2 align="center">Hi, I'm Daniel, backend engineer</h2>
 
 ###
 
 ###
 
-<p align="left">📚 I'm currently learning Node.js, Nest.js, Typescript, Flutter (Dart)</p>
+<p align="left">Working with Node.js, Nest.js, Typescript, Flutter (Dart)</p>
 
 ###
 
